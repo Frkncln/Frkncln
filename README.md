@@ -4,8 +4,9 @@
 -->
 ![](https://komarev.com/ghpvc/?username=Frkncln&style=flat-square)
 
-You can find me on:  https://www.linkedin.com/in/celenfurkan/
+
 <!--
+You can find me on:  https://www.linkedin.com/in/celenfurkan/
 ![Frkn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Frkncln&show_icons=true&theme=gradient)
 **Frkncln/Frkncln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
